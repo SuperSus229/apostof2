@@ -1,0 +1,20 @@
+body {
+  background-image: ;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+h3 {
+  font-family: "Roboto Mono", monospace;
+  font: weight 200;
+  color: rgb(255, 3, 3);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,700;1,200&display=swap");
+
+main section.video {
+  margin: 20px auto;
+  width: 560px;
+  height: 315px;
+}
